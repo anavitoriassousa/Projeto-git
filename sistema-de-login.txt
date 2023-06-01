@@ -1,3 +1,5 @@
 Email ou Nome de usuário:
 
 Senha:
+
+Data de Nascimento:
